@@ -7,7 +7,7 @@ A sample implementation of a Model Context Protocol (MCP) server for Azure Conta
 
 - Python 3.11+
 - [UV](https://github.com/astral-sh/uv) package manager
-- Azure subscription and Container Apps environment
+- Azure subscription 
 - Azure CLI 
 
 ## Installation
